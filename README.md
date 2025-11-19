@@ -10,7 +10,7 @@ For anyone appraising the contents of this portfolio, please note the following:
 AWS Storage Gateway Service Docs:
 https://docs.aws.amazon.com/storagegateway/
 
-Amazon Location Service Docs:
+Amazon Location Service Docs (including the Location Service Developer Guide which is too large to upload to GitHub through the browser interface):
 https://docs.aws.amazon.com/location/
 
 Amazon S3 Express CloudFormation Resource Creation Template Reference:
