@@ -15,3 +15,5 @@ https://docs.aws.amazon.com/location/
 
 Amazon S3 Express CloudFormation Resource Creation Template Reference:
 https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/AWS_S3Express.html
+
+NOTE: I was also the primary content developer for all of the application-integrated guidance (UI descriptiuons, field labels, banners, error messages, and pop-out help panels) for the AWS Storage Gateway web console. Upon request, I am happy to use my personal AWS credentials to give a guided tour of this content.
